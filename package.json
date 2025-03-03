@@ -1,0 +1,21 @@
+{
+  "name": "pw-ts-force",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/os-global/pw-ts-force/issues"
+  },
+  "homepage": "https://github.com/os-global/pw-ts-force#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.8",
+    "dotenv": "^16.4.7",
+    "ts-force": "^3.5.0",
+    "typescript": "^5.8.2"
+  }
+}
